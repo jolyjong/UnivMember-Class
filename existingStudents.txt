@@ -1,0 +1,9 @@
+Miley Cyrus,A10000000,mCyrus
+Mike Cyrus,A10000001,mCyrus2
+Lady Gaga,A10000002,lGaga
+Ariana Grande,A10000003,aGrande
+Alicia Keys,A10000004,aKeys
+Bruno Mars,A10000005,bMars
+Ed Sheeran,A10000006,eSheeran
+Harry Stiles,A10000007,hStiles
+Taylor Swift,A10000008,tSwift
